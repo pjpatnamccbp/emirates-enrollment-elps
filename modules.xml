@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Emirates.iml" filepath="$PROJECT_DIR$/.idea/Emirates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emirates-enrollment-service/emirates-enrollment-service.iml" filepath="$PROJECT_DIR$/emirates-enrollment-service/emirates-enrollment-service.iml" />
+    </modules>
+  </component>
+</project>
